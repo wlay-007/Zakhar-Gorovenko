@@ -7,10 +7,9 @@
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-- 👋 Hi, my name is Zakhar Gorovenko.
-- 💼 I'm a Front End Web Developer, working mostly with React / Next.js. 
-- ❤️ I love Tailwind CSS. 
-- 💻 I’m looking to collaborate on interesting web apps together
+- 🙋‍♂️ Hello, I'm Zakhar Gorovenko.
+- 💻 I work as a Front End Web Developer, primarily focusing on React / Next.js. 
+- 🤝 I'm interested in collaborating on interesting web apps together. 
 
 <h2> Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -74,17 +73,8 @@
 
 <br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wlay-007&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wlay-007&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wlay-007&show_icons=true" />
-</picture>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wlay-007&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wlay-007&theme=github_dark)
 
 
 
