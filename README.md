@@ -33,7 +33,9 @@
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </a>
 
-<a href="https://mobx.js.org" target="_blank"> <img alt="Mobx" src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white"> </a>
+<a href="https://mobx.js.org" target="_blank"> 
+<img alt="Mobx" src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white">
+</a>
 
 <a href="https://nextjs.org" target="_blank">
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
