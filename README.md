@@ -1,8 +1,5 @@
 <h1> Hey, welcome to my GitHub page! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<a href="https://www.linkedin.com/in/zakhar-gorovenko-8b2b96276/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>   
 <a href="https://t.me/t_rinityOne" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
